@@ -69,6 +69,7 @@ For each user:
 | Tag | Description |
 |-----|-------------|
 | `pipewire` | All pipewire tasks |
+| `network` | Network connectivity wait (before packages) |
 | `packages` | Package install/remove only |
 | `config` | Configuration directories and files |
 | `service` | User service management |
